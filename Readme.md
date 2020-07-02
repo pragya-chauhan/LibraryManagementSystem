@@ -4,7 +4,7 @@
 ---
 
 <h1 id="school-library-management-system">School Library Management System</h1>
-<p>This is a Library Management system developed using C++ and OOP concepts. It uses file handling to store the data and provides an efficient system to manage a school library. Following are some of its features:</p>
+<p>This is a Library management system developed using C++ and OOP concepts. It uses file handling to store the data and provides an efficient system to manage a school library. Following are some of its features:</p>
 <ul>
 <li>Login System</li>
 <li>Search, add, modify, view and delete books</li>
